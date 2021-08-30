@@ -1,0 +1,64 @@
+*{
+    margin: 0;padding: 0;
+}
+div{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bg1{
+    background-image: url(../images/bg1.jpg);
+    height: 100vh;
+}
+.center{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+    text-transform: uppercase;
+    padding: 15px;
+}
+.section{
+    height: 250px;
+    background-color: white;
+}
+.section h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 20px;
+}
+.section p{
+    padding: 20px;
+    text-align: justify;
+    font-size: 18px;
+}
+.bg2{
+    background-image: url(../images/bg2.jpg);
+    height: 800px;
+}
+.bg3{
+    background-image: url(../images/bg3.jpg);
+    height: 800px;
+}
+.bg4{
+    background-image: url(../images/bg4.jpg);
+    height: 800px;
+}
+.bg5{
+    background-image: url(../images/bg5.jpg);
+    height: 800px;
+}
+.bg6{
+    background-image: url(../images/bg6.jpg);
+    height: 900px;
+}
+.finshed{
+    height: 60px;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+}
